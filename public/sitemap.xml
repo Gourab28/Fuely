@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://fuely.cretic.co.in/</loc> </url>
-<url> <loc>https://fuely.cretic.co.in/</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/not-found</loc> </url>
-<url> <loc>https://fuely.cretic.co.in/state/andaman-&-nicobar</loc> </url>
+<url> <loc>https://fuely.cretic.co.in/state/andaman-and-nicobar</loc></url>
 <url> <loc>https://fuely.cretic.co.in/state/andhra-pradesh</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/arunachal-pradesh</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/assam</loc> </url>
@@ -17,7 +16,7 @@
 <url> <loc>https://fuely.cretic.co.in/state/gujarat</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/haryana</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/himachal-pradesh</loc> </url>
-<url> <loc>https://fuely.cretic.co.in/state/jammu-&-kashmir</loc> </url>
+<url> <loc>https://fuely.cretic.co.in/state/jammu-and-kashmir</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/jharkhand</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/karnataka</loc> </url>
 <url> <loc>https://fuely.cretic.co.in/state/kerala</loc> </url>
